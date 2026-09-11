@@ -40,9 +40,15 @@ The current dataset is synthetic and is used for learning and experimentation. A
 
 ## What I Learned
 
-- Basic agricultural data analysis
+- Basic agricultural data analysis    
 - Data preparation for machine learning
 - Regression modelling
 - Model evaluation
 - Data visualization
 - Using Google Colab and GitHub
+  
+-   ## Model Visualization
+
+The graph below compares the actual crop yield values with the values predicted by the machine-learning model.
+
+![Actual vs Predicted Crop Yield](actual_vs_predicted_yield.png)
